@@ -1,0 +1,17 @@
+
+/*
+*= require ./fileinput_base
+*= require_self
+*/
+
+.file-loading {
+  background: transparent asset-url('assets/bootstrap_fileinput/loading.gif') top left no-repeat;
+}
+
+.loading {
+  background: transparent asset-url('assets/bootstrap_fileinput/loading.gif') no-repeat scroll center center content-box !important;
+}
+
+.file-uploading {
+  background-image: asset-url('assets/bootstrap_fileinput/loading-sm.gif');
+}
