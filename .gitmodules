@@ -1,3 +1,5 @@
 [submodule "kartik_boostrap-fileinput"]
 	path = vendor/kartik_boostrap-fileinput
-	url = git@github.com:kartik-v/bootstrap-fileinput.git
+        url = git@github.com:atalargo/bootstrap-fileinput-1.git
+
+# 	url = git@github.com:kartik-v/bootstrap-fileinput.git
