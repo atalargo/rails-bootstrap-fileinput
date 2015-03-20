@@ -1,17 +1,17 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "bootstrap_fileinput/version"
+require "bootstrap-fileinput/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "bootstrap_fileinput"
+  s.name        = "rails-bootstrap-fileinput"
   s.version     = BootstrapFileinput::VERSION
   s.authors     = ["Florent Ruard-Dumaine"]
   s.email       = ["atalargo@gmail.com"]
-  s.homepage    = 'http://github.com/atalargo/boostrap-fileinput'
-  s.summary     = 'TODO: Summary of BootstrapFileinput.'
-  s.description = "TODO: Description of BootstrapFileinput."
+  s.homepage    = 'http://github.com/atalargo/rails-boostrap-fileinput'
+  s.summary     = 'TODO: Summary of Rails Bootstrap Fileinput.'
+  s.description = "TODO: Description of Rails Bootstrap Fileinput."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
@@ -23,3 +23,4 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "sqlite3"
 end
+
