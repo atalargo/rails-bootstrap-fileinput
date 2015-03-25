@@ -5,7 +5,7 @@ require "bootstrap_fileinput/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "rails-bootstrap-fileinput"
+  s.name        = "bootstrap_fileinput"
   s.version     = BootstrapFileinput::VERSION
   s.authors     = ["Florent Ruard-Dumaine"]
   s.email       = ["atalargo@gmail.com"]
