@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
     s.authors     = ['Florent Ruard-Dumaine']
     s.email       = ['atalargo@gmail.com']
     s.homepage    = 'http://github.com/atalargo/rails-boostrap-fileinput'
-    s.summary     = 'TODO: Summary of Rails Bootstrap Fileinput.'
-    s.description = 'TODO: Description of Rails Bootstrap Fileinput.'
+    s.summary     = ' Summary of Rails Bootstrap Fileinput.'
+    s.description = ' Description of Rails Bootstrap Fileinput.'
     s.license     = 'MIT'
 
     s.files = Dir['{app,config,db,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.rdoc']
